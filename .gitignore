@@ -1,0 +1,12 @@
+# Build outputs
+*.exe
+*.out
+*.obj
+*.o
+
+# VS Code
+.vscode/
+
+# Windows temporary files
+Thumbs.db
+Desktop.ini
