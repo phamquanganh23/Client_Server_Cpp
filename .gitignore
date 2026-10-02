@@ -1,0 +1,20 @@
+# File thực thi
+*.exe
+*.out
+*.o
+*.obj
+*.dll
+
+# Thư mục build
+build/
+bin/
+obj/
+Debug/
+Release/
+
+# File tạm VS Code
+.vscode/
+
+# File hệ thống
+Thumbs.db
+.DS_Store
